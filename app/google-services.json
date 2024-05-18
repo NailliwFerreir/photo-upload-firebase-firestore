@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990902653010",
+    "project_id": "cameraupload-9d512",
+    "storage_bucket": "cameraupload-9d512.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990902653010:android:21ea1141c86462a8120f8b",
+        "android_client_info": {
+          "package_name": "br.edu.puccampinas.cameraupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4MYYZqlywzz_Ye8B6iN3lqTJVQSl844c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
